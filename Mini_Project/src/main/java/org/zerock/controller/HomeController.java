@@ -28,6 +28,7 @@ public class HomeController {
 		logger.info("안녕하세요영석입니다");
 		logger.info("안녕하세요영석입니다 STS");
 		logger.info("안녕하세요봉닥입니다");
+		logger.info("안녕하세요연지입니다");
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		
